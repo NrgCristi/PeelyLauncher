@@ -11,5 +11,5 @@ else:
     {
     	
     	if len(input) != 32:
-        	print('The auth code is incorrect and it must be 32 characters long, please get a new one from https://rebrand.ly/authcode')
+        	print("The auth code is incorrect and it must be 32 characters long, please get a new one from https://rebrand.ly/authcode")
 }
