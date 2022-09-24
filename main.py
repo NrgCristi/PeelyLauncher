@@ -1,6 +1,6 @@
 import os
 import time
-print('Installing Required Packages, Please Wait')
+print('Installing Required Packages, Please Wait!')
 os.system("pip install os")
 os.system("pip install time")
 user_code = input('Please Enter your auth code from https://rebrand.ly/authcode:')
