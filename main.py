@@ -6,7 +6,7 @@ os.system("pip install time")
 user_code = input('Please Enter your auth code from https://rebrand.ly/authcode:')
 if len(user_code) != 32:
         {
-            print('the auth code you provided is incorrect, invalid, expired, or not 32 characters long, please get a new one from rebrand.ly/authcode any try again')
+            print('the auth code you provided is incorrect, invalid, expired, or not 32 characters long, please get a new one from https://rebrand.ly/authcode any try again')
     }
 else:
     if len(user_code) == 32:
